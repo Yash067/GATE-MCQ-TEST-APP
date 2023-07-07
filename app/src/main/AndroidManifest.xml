@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GATEMockTest">
+        <activity android:name=".Inst_Activity"></activity>
+        <activity android:name=".Notes_Activity" />
+        <activity android:name=".Sign_Up_Activity" />
+        <activity android:name=".Reset_Activity" />
+
+        <activity android:name=".Result_DS" />
+        <activity android:name=".Result_OS" />
+        <activity android:name=".Result_TOC" />
+        <activity android:name=".Result_DL" />
+        <activity android:name=".Result_DBMS" />
+        <activity android:name=".Result_COA" />
+        <activity android:name=".Result_CN" />
+        <activity android:name=".Result_CD" />
+        <activity android:name=".Result_Algo" />
+        <activity android:name=".Result_EM" />
+        <activity
+            android:name=".Choose_Activity"
+            android:parentActivityName=".LoginActivity" />
+        <activity
+            android:name=".CN_Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DBMS_Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".OS_Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".CD_Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".TOC_Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Algo_Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DS_Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".COA_Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DL_Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".EM_Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:parentActivityName=".Choose_Activity" />
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.GATEMockTest.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

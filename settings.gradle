@@ -1,0 +1,2 @@
+rootProject.name = "GATE Mock Test"
+include ':app'

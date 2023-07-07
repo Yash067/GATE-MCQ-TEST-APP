@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GATE Mock Test</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dont_have_an_account">Dont have an account ?</string>
+    <string name="Instruction"><b> Instructions: </b>
+    Please make sure that:
+<b> 1: </b>you have an active user account and internet connection is good <b> 2: </b> Time for the exam is 1 hr <b> 3: </b> 30 question are to be soved <b> 4: </b> Negative marking.</string>
+    <string name="notes"> <b>Graduate Aptitude Test in Engineering</b> The Graduate Aptitude Test in Engineering (GATE) is an examination that primarily tests the comprehensive understanding of various undergraduate subjects in engineering and science for admission into the Masters Program and Job in Public Sector Companies. GATE is conducted jointly by the Indian Institute of Science and seven Indian Institutes of Technologies at Roorkee, Delhi, Guwahati, Kanpur, Kharagpur, Chennai (Madras) and Mumbai (Bombay) on behalf of the National Coordination Board – GATE, Department of Higher Education, Ministry of Education (MoE), Government of India. The GATE score of a candidate reflects the relative performance level of a candidate. The score is used for admissions to various post-graduate education programs (e.g. Master of Engineering, Master of Technology, Master of Architecture, Doctor of Philosophy) in Indian higher education institutes, with financial assistance provided by MHRD and other government agencies. Recently, GATE scores are also being used by several Indian public sector undertakings for recruiting graduate engineers in entry-level positions. It is one of the most competitive examinations in India. GATE is also recognized by various institutes outside India, such as Nanyang Technological University in Singapore. <b> Why Gate </b> Majority of the students might not be that confident in answering this question, may be they are not aware, it has become quite systematic to do a post-graduation immediately after your under-graduation. Nowadays plenty has a Bachelor of Technology degree, so some might think of taking the next step to be distinct. Just for the sake of doing masters, you do masters, then that’s where the problem lies.
+GATE is an exam of quality, so to do well in that, the decision has to be a quality solid one as well. Lets say in Civil Engineering, some of you want to pursue a career as a structural engineering or designer, to do that, post-graduation is mandatory, thus you need GATE. Some people might want to become a professor, then doing a post-graduation is the penultimate step in that career path. Some even target Public Sector Undertaking jobs were the recruitment is through GATE. Only if you have these three notions, your decision to appear in GATE will be justified. Do keeping aside the fact that certain jobs demand a GATE qualified Candidate. Once you finalize your requirement and decide to appear for GATE, there should not be a turning back. A solid decision is the backbone of cracking any competitive exams with flying colors.</string>
+</resources>
